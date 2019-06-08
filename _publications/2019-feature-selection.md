@@ -1,6 +1,6 @@
 ---
 title: "Feature Selection via Mutual Information: New Theoretical Insight"
-collection: research
+collection: publications
 permalink: /research/2019-feature-selection
 excerpt: 'We tackle the problem of feature selection for both classification and regression problems. We find a new bound for the classification and regression error achieved by the ideal classifier working on different subsets of features.'
 date: 2019-07-17
