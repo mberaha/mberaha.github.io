@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hi there! I am a first year PhD researcher at the Math. Department at Politecnico di Milano.
+Hi there! I am a first year PhD researcher at the Math. Department at Politecnico di Milano, where I work under the supervision of professor Alessandra Guglielmi.
 
 Before that, I was a Data Scientist at [Indigo AI][1] developing cool NLP stuff to produce smarter chatbots.
 
