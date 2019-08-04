@@ -9,3 +9,4 @@ venue: 'International Joint Conference on Neural Networks'
 ---
 
 The paper has been accepted for an oral presentation at IJCNN 2019 in Budapest.
+[paper](https://mberaha.github.io/files/ijcnn_2019_paper.pdf) [slides](https://mberaha.github.io/files/ijcnn_2019_slides.pdf) [code coming soon]

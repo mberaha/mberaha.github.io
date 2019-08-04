@@ -7,3 +7,7 @@ excerpt: 'We propose a Bayesian model for the analysis of flow counts on a netwo
 date: 2019-07-17
 venue: 'Società Italiana della Statistica'
 ---
+
+Published in the Book of Sort Papers Sis 2019.
+
+[paper]((https://mberaha.github.io/files/sis_2019_paper.pdf) [slides](https://mberaha.github.io/files/ijcnn_2019_slides.pdf)
