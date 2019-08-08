@@ -6,7 +6,7 @@ author: 'Mario Beraha, Alberto Maria Metelli, Matteo Papini, Andrea Tirinzoni an
 date: 2019-07-17
 venue: 'International Joint Conference on Neural Networks'
 ---
-In this paper, We tackle the problem of feature selection for both classification and regression problems. We find a new bound for the classification and regression error achieved by the ideal classifier working on different subsets of features.
+In this paper, we tackle the problem of feature selection for both classification and regression problems. We find a new bound for the classification and regression error achieved by the ideal classifier working on different subsets of features.
 
 The paper has been accepted for an oral presentation at IJCNN 2019 in Budapest.
 
