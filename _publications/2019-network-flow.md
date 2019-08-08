@@ -10,4 +10,4 @@ In this work, we propose a Bayesian model for the analysis of flow counts on a n
 
 Published in the Book of Sort Papers Sis 2019.
 
-[paper]((https://mberaha.github.io/files/sis_2019_paper.pdf) [slides](https://mberaha.github.io/files/ijcnn_2019_slides.pdf)
+[paper](https://mberaha.github.io/files/sis_2019_paper.pdf) [slides](https://mberaha.github.io/files/ijcnn_2019_slides.pdf)

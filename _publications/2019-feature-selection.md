@@ -11,4 +11,4 @@ In this paper, We tackle the problem of feature selection for both classificatio
 The paper has been accepted for an oral presentation at IJCNN 2019 in Budapest.
 
 
-[paper](https://mberaha.github.io/files/ijcnn_2019_paper.pdf) [slides](https://mberaha.github.io/files/ijcnn_2019_slides.pdf) [code coming soon]
+[paper](https://arxiv.org/abs/1907.07384) [slides](https://mberaha.github.io/files/ijcnn_2019_slides.pdf) [code coming soon]
