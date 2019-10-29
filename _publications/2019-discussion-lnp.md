@@ -6,6 +6,7 @@ author: 'Mario Beraha and Alessandra Guglielmi'
 date: 2019-11-27
 venue: 'Bayesian Analysis'
 ---
+
 In this work, we comment on the article by Camerlenghi and co authors, proposing
 an approximation to their latent nested process, that we obtain by
 truncating a priori the stick-breaking construction of a nested Dirichlet Process.
