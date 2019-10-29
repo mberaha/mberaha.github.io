@@ -8,6 +8,6 @@ venue: 'Book of Short Papers Sis 2019'
 ---
 
 
-In this work, we propose a Bayesian model for the analysis of flow counts on a network for an application to a bike sharing platform (BikeMi) in Milano
+In this work, we propose a Bayesian model for the analysis of flow counts on a network for an application to a bike sharing platform (BikeMi) in Milano.
 
 [paper](https://mberaha.github.io/files/sis_2019_paper.pdf) [slides](https://mberaha.github.io/files/ijcnn_2019_slides.pdf)
