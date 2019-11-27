@@ -1,5 +1,5 @@
 ---
-title: "Invited discussion on "Latent Nested Nonparametric Priors" by F. Camerlenghi, D. B. Dunson, A. Lijoi, I. Prünster and A. Rodríguez "
+title: 'Invited discussion on "Latent Nested Nonparametric Priors" by F. Camerlenghi, D. B. Dunson, A. Lijoi, I. Prünster and A. Rodríguez"'
 collection: research
 permalink: /research/2019-lnp-discussion
 author: 'Mario Beraha and Alessandra Guglielmi'
