@@ -7,6 +7,6 @@ venue: ""
 date: 2019-11-28
 location: ""
 ---
-You can check the livestream of the webinar on [YouTube](https://www.youtube.com/watch?v=Ko-vHPx9HBk)!
+You can check the livestream of the webinar on [YouTube](https://youtu.be/Ko-vHPx9HBk)!
 
 Here you can find the [original manuscript](https://projecteuclid.org/euclid.ba/1561601089) and our [discussion]((https://mberaha.github.io/files/discussion_lnp.pdf)).
