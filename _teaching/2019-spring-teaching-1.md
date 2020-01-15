@@ -4,7 +4,7 @@ collection: teaching
 type: "Bachelor course"
 permalink: /teaching/2019-spring-teaching-1
 venue: "Politecnico di Milano"
-date: 2019 - 2018
+date: 2020-03-17
 location: "Milan, Italy"
 ---
 

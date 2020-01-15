@@ -4,7 +4,7 @@ collection: teaching
 type: "Master course"
 permalink: /teaching/2018-fall-teaching-1
 venue: "Politecnico di Milano"
-date:  Oct 2019 - Feb 202, Oct 2018 - Feb 2019
+date:  2020-03-18
 location: "Milan, Italy"
 ---
 
