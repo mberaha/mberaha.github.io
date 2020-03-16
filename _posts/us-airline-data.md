@@ -356,15 +356,15 @@ plt.show()
 ```
 
 
-![png](Airlines%20data%20preprocessing_files/Airlines%20data%20preprocessing_9_0.png)
+![png](us-airline-data-networks.png)
 
 
 
 ```python
-# basefile = "data/airline_network/{0}.csv"
+basefile = "data/airline_network/{0}.csv"
 
-# for airline, net in networks.items():
-#     file = basefile.format(airline)
-#     np.savetxt(file, net, fmt='%i', delimiter=",")
+for airline, net in networks.items():
+    file = basefile.format(airline)
+    np.savetxt(file, net, fmt='%i', delimiter=",")
 ```
 
