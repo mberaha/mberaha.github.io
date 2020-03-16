@@ -1,7 +1,7 @@
 ---
 title: 'US Airlines data preprocessing'
 date: 2020-16-03
-permalink: /posts/us_airline_data
+permalink: /posts/us-airline-data/
 ---
 
 ```python
