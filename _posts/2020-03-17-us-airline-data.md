@@ -1,6 +1,6 @@
 ---
 title: 'US Airlines data preprocessing'
-date: 2020-16-03
+date: 2020-03-16
 permalink: /posts/2020/03/us-airline-data/
 tags:
   - cool posts
@@ -338,7 +338,7 @@ for airl in airlines:
     for ind, row in curr.iterrows():
         net[airport2ind[row.source], airport2ind[row.target]] = 1
         net[airport2ind[row.target], airport2ind[row.source]] = 1
-        
+
     networks[airl] = net.astype(np.int32)
 ```
 
@@ -352,7 +352,7 @@ for i, air in enumerate(airlines):
     axes[i].imshow(networks[air])
     axes[i].set_xticks([])
     axes[i].set_yticks([])
-    
+
 for i in range(52, 56):
     axes[i].set_visible(False)
 
@@ -371,4 +371,3 @@ for airline, net in networks.items():
     file = basefile.format(airline)
     np.savetxt(file, net, fmt='%i', delimiter=",")
 ```
-
